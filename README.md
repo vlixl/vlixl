@@ -1,6 +1,6 @@
-# Hi, I'm Valen 👋
+# Hi, I'm Vincent 👋
 
-Computer Science student at Universitas Indonesia.
+CS Student @ Universitas Indonesia
 
 I make things involving:
 - 💻 Software
